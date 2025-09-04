@@ -1,4 +1,4 @@
-# person-profile-app
+# profile-app
 
 This project is a simple React application that showcases a person's profile using a class-based component. It includes a toggle button to show or hide the profile and displays a timer that tracks the time since the component was mounted.
 
@@ -7,7 +7,6 @@ This project is a simple React application that showcases a person's profile usi
 - Class-based component for managing state and rendering.
 - Toggle functionality to show/hide the person's profile.
 - Timer that tracks the time since the component was mounted.
-- Responsive design with CSS styling.
 
 ## Getting Started
 
@@ -15,7 +14,7 @@ To get started with this project, follow these steps:
 
 1. Clone the repository:
    ```
-   git clone <repository-url>
+   git clone https://github.com/Phenomenal5/Front-End-Development-React-State.git
    ```
 
 2. Navigate into the project directory:
